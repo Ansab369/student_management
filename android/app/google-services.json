@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036686465955",
+    "project_id": "kayla-student-management",
+    "storage_bucket": "kayla-student-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036686465955:android:5b08334e797792ab1d9816",
+        "android_client_info": {
+          "package_name": "com.example.student_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-VJlbfjP7UH4awlg8VqKjDS6KbHAJb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
