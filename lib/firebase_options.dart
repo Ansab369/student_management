@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'kayla-student-management',
     storageBucket: 'kayla-student-management.appspot.com',
   );
+  
 }
